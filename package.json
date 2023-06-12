@@ -1,0 +1,11 @@
+{
+  "name": "noob_tools",
+  "version": "1.0.0",
+  "description": "A set of debugging tools for lazy developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest . --runInBand"
+  },
+  "author": "salfedev",
+  "license": "ISC"
+}
